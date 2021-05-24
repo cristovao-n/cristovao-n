@@ -2,7 +2,7 @@
 
 - 👋 Olá, sou @Crisnzx
 
-- Olá, chamo-me Cristovão, tenho 17 anos, sou do Brasil, a minha língua nativa é o português, mas também entendo inglês. Sou “Técnico de Informática Integrado ao Ensino Médio” pelo “IFPB - Campus Esperança” e comecei a estudar Ciência da Computação na “UFCG - Universidade Federal de Campina Grande” em 2021.
+- Olá, chamo-me Cristovão, tenho 18 anos, sou do Brasil, a minha língua nativa é o português, mas também entendo inglês. Sou “Técnico de Informática Integrado ao Ensino Médio” pelo “IFPB - Campus Esperança” e comecei a estudar Ciência da Computação na “UFCG - Universidade Federal de Campina Grande” em 2021.
 
 - 🌱 Atualmente estou aprendendo ...
 
@@ -23,7 +23,7 @@
 
 # Presentation in English
 - 👋 Hi, I’m @Crisnzx 
-- Hello, my name is Cristovão,  I'm 17 years old, I'm from Brazil, my native language is Portuguese, but I can understand English too. I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I started to study Computer Science at the "UFCG - Universidade Federal de Campina Grande" in 2021.
+- Hello, my name is Cristovão,  I'm 18 years old, I'm from Brazil, my native language is Portuguese, but I can understand English too. I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I started to study Computer Science at the "UFCG - Universidade Federal de Campina Grande" in 2021.
 
 - 🌱 I’m currently learning ...
 - Currently, I have been studying HTML, CSS and JavaScript on my own over free classes on youtube and Udemy courses, because my classes at the university haven't started yet because of the pandemic. I still don't know when my classes will start, while they don't start, I'll keep studying at home. I've studied Java and Node.js at "IFPB - Campus Esperança", so I have a little experience with these technologies.
