@@ -8,7 +8,7 @@
 
 ### Interesses futuros
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"> &nbsp;
-<img src="https://img1.gratispng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" width="50"> &nbsp;
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width="50"> &nbsp;
 
 # Apresentação em Português
 
