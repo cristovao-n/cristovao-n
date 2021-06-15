@@ -1,3 +1,15 @@
+### Conhecimento Front-end
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60"> &nbsp;
+
+### Aprendendo
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"> &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" alt="Git" width="60"> &nbsp;
+
+### Interesses futuros
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"> &nbsp;
+<img src="https://img1.gratispng.com/20180425/xeq/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84de7b809.1939946215246930699491.jpg" width="50"> &nbsp;
+
 # Apresentação em Português
 
 - 👋 Olá, sou @Crisnzx
