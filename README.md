@@ -14,7 +14,7 @@
 
 - 👋 Olá, sou @Crisnzx
 
-- Olá, chamo-me Cristovão, tenho 18 anos, sou do Brasil, a minha língua nativa é o português, mas também entendo inglês. Sou “Técnico de Informática Integrado ao Ensino Médio” pelo “IFPB - Campus Esperança” e comecei a estudar Ciência da Computação na “UFCG - Universidade Federal de Campina Grande” em 2021.
+- Olá, chamo-me Cristovão, tenho 18 anos, sou do Brasil, a minha língua nativa é o português, mas também entendo inglês. Sou “Técnico em Informática Integrado ao Ensino Médio” pelo “IFPB - Campus Esperança” e comecei a estudar Ciência da Computação na “UFCG - Universidade Federal de Campina Grande” em 2021.
 
 - 🌱 Atualmente estou aprendendo ...
 
