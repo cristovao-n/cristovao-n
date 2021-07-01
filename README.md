@@ -4,10 +4,10 @@
 
 ### Aprendendo
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" alt="Git" width="60"> &nbsp;
 
 ### Interesses futuros
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"> &nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width="50"> &nbsp;
 
 # Apresentação em Português
