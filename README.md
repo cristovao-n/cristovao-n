@@ -1,9 +1,9 @@
 ### Conhecimento Front-end
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="60"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="60"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"> &nbsp;
 
 ### Aprendendo
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" alt="Git" width="60"> &nbsp;
 
