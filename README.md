@@ -22,7 +22,7 @@
 # Presentation in English
 - 👋 Hi, my name is Cristovão,  I'm 18 years old, I'm from Brazil, my native language is Portuguese, but I can understand English too. I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I started to study Computer Science at the "UFCG - Universidade Federal de Campina Grande" in 2021.
 
-- 🌱 Currently, I am really focused in the front-end right now, learning ReactJS, and my plan is to become a full-stack web developer in the future.
+- 🌱 Currently, I'm really focused in the front-end right now, learning ReactJS, and my plan is to become a full-stack web developer in the future.
 
 - 📫 You can find me on gmail (cristovaon13@gmail.com), instragram (@cristovaon_) and here.
 <!---
