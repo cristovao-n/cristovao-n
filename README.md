@@ -10,6 +10,7 @@
 
 ### Future interests
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width="50"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"> &nbsp;
 
 # Apresentação em Português
 
