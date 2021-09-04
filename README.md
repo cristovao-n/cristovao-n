@@ -5,8 +5,10 @@
 
 ### Learning
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" alt="Git" width="50"> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next" width="50"> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50"> &nbsp;
+
 
 ### Future interests
 <img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png" width="50"> &nbsp;
