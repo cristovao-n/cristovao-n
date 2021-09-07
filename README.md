@@ -23,6 +23,7 @@
 
 - 📫 Você pode me encontrar no gmail (cristovaon13@gmail.com), instragram (@cristovaon_) e aqui.
 
+- No meu github você encontrará vários projetos simples, focados na aplicação de conceitos específicos das tecnologias que estou estudando. Por serem sucintos e feitos dessa maneira, eles se tornam ótimos para futuras consultas de código, para relembrar como aplicar determinada funcionalidade e a sua sintaxe.
 
 # Presentation in English
 - 👋 Hi, my name is Cristovão,  I'm 18 years old, I'm from Brazil, my native language is Portuguese, but I can understand English too. I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I'll start to study Computer Science at the "UFCG - Universidade Federal de Campina Grande" in November 2021.
@@ -31,6 +32,8 @@
 - 🌱 Currently, I'm totally focused in the front-end right now, learning ReactJS, and my plan is to become a full-stack web developer in the future with NodeJS and React Native.
 
 - 📫 You can find me on gmail (cristovaon13@gmail.com), instragram (@cristovaon_) and here.
+
+- On my github you'll find a lot of simple projects, that are focused on especific concepts of the technologies I'm studying. They look great by the way they were made, because I can use them when I need to remember how to apply some functionality and its sintax.
 <!---
 Crisnzx/Crisnzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
