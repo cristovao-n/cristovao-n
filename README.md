@@ -12,21 +12,21 @@
 - 👋 Olá, meu nome é Cristovão, tenho 18 anos, sou do Brasil, a minha língua nativa é o português, mas também entendo inglês. Sou “Técnico em Informática Integrado ao Ensino Médio” pelo “IFPB - Campus Esperança” e curso Ciência da Computação na “UFCG - Universidade Federal de Campina Grande”.
 - Comecei a aprender lógica de programação em 2018 no IFPB aos 14 anos de idade. Em 2021 eu comecei a levar a programação a sério e decidi estudar o ecossistema JavaScript profundamente. 
 
-- 🌱 Atualmente, estou trabalhando no front-end com ReactJS na Diletta Solutions, e meu plano é me tornar um desenvolvedor full-stack no futuro com NodeJS e React Native.
+- 🌱 Atualmente, estou trabalhando no front-end com ReactJS na Diletta Solutions.
 
 - 📫 Você pode me encontrar no gmail (cristovaon13@gmail.com), instragram (@cristovaon_) e aqui.
 
-- No meu github você encontrará vários projetos simples, focados na aplicação de conceitos específicos das tecnologias que estou estudando. Por serem sucintos e feitos dessa maneira, eles se tornam ótimos para futuras consultas de código, para relembrar como aplicar determinada funcionalidade e a sua sintaxe.
+- No meu github você encontrará vários projetos simples, focados na aplicação de conceitos específicos das tecnologias que estou estudando.
 
 # Presentation in English
 - 👋 Hi, my name is Cristovão,  I'm 18 years old, I'm from Brazil, my native language is Portuguese, but I can understand English too. I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I study Computer Science at the "UFCG - Universidade Federal de Campina Grande".
 - I started to learn logic programming in 2018 at IFPB when I was just 14. In 2021 I started to deal seriously with programming and decided to study the Javascript ecosystem deeply.
 
-- 🌱 Currently, I'm working in the front-end right now, with ReactJS at Diletta Solutions, and my plan is to become a full-stack web developer in the future with NodeJS and React Native.
+- 🌱 Currently, I'm working in the front-end right now, with ReactJS at Diletta Solutions.
 
 - 📫 You can find me on gmail (cristovaon13@gmail.com), instragram (@cristovaon_) and here.
 
-- On my github you'll find a lot of simple projects, that are focused on especific concepts of the technologies I'm studying. They look great by the way they were made, because I can use them when I need to remember how to apply some functionality and its sintax.
+- On my github you'll find a lot of simple projects, that are focused on especific concepts of the technologies I'm studying.
 <!---
 Crisnzx/Crisnzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
