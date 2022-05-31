@@ -9,7 +9,7 @@
 
 # Apresentação em Português
 
-- 👋 Olá, meu nome é Cristovão, tenho 18 anos, sou do Brasil, a minha língua nativa é o português, mas também entendo inglês. Sou “Técnico em Informática Integrado ao Ensino Médio” pelo “IFPB - Campus Esperança” e curso Ciência da Computação na “UFCG - Universidade Federal de Campina Grande”.
+- 👋 Olá, meu nome é Cristovão, tenho 19 anos, sou do Brasil, a minha língua nativa é o português, mas também entendo inglês. Sou “Técnico em Informática Integrado ao Ensino Médio” pelo “IFPB - Campus Esperança” e curso Ciência da Computação na “UFCG - Universidade Federal de Campina Grande”.
 - Comecei a aprender lógica de programação em 2018 no IFPB aos 14 anos de idade. Em 2021 eu comecei a levar a programação a sério e decidi estudar o ecossistema JavaScript profundamente. 
 
 - 🌱 Atualmente, estou trabalhando no front-end com ReactJS na Diletta Solutions.
