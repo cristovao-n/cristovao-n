@@ -10,7 +10,7 @@
 # Apresentação em Português
 
 - 👋 Olá, meu nome é Cristovão, tenho 19 anos, sou do Brasil, a minha língua nativa é o português, mas também entendo inglês. Sou “Técnico em Informática Integrado ao Ensino Médio” pelo “IFPB - Campus Esperança” e curso Ciência da Computação na “UFCG - Universidade Federal de Campina Grande”.
-- Comecei a aprender lógica de programação em 2018 no IFPB aos 14 anos de idade. Em 2021 eu comecei a levar a programação a sério e decidi estudar o ecossistema JavaScript profundamente. 
+- Comecei a aprender lógica de programação em 2018 no IFPB. Em 2021 eu comecei a levar a programação a sério e decidi estudar o ecossistema JavaScript profundamente. 
 
 - 🌱 Atualmente, estou trabalhando no front-end com ReactJS na Diletta Solutions.
 
@@ -20,7 +20,7 @@
 
 # Presentation in English
 - 👋 Hi, my name is Cristovão,  I'm 18 years old, I'm from Brazil, my native language is Portuguese, but I can understand English too. I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I study Computer Science at the "UFCG - Universidade Federal de Campina Grande".
-- I started to learn logic programming in 2018 at IFPB when I was just 14. In 2021 I started to deal seriously with programming and decided to study the Javascript ecosystem deeply.
+- I started to learn logic programming in 2018 at IFPB. In 2021 I started to deal seriously with programming and decided to study the Javascript ecosystem deeply.
 
 - 🌱 Currently, I'm working in the front-end right now, with ReactJS at Diletta Solutions.
 
