@@ -1,6 +1,10 @@
 # Hi!
 
-- 👋 Hi, my name is Cristovão,  I'm 19 years old, and I'm a developer from Brazil! I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I study Computer Science at "UFCG - Universidade Federal de Campina Grande". Currently, I'm working as a front-end developer with ReactJS at Diletta Solutions.
+- 👋 Hi, my name is Cristovão,  I'm 19 years old, and I'm a developer from Brazil! I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I study Computer Science at "UFCG - Universidade Federal de Campina Grande".
+
+- Now I'm studying back-end development and Unix systems.
+
+- Currently, one of my focuses is to study web development always trying to think outside of the box to provide the fastest and the best development experience in my personal projects.
 
 - On my github you'll find a lot of simple projects that are focused on especific concepts of the technologies I'm studying.
 
