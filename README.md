@@ -8,10 +8,9 @@
 
 - On my github you'll find a lot of simple projects that are focused on especific concepts of the technologies I'm studying.
 
-- These are my main technologies:
+- These are my main stacks:
 
-  - ReactJS
-  - Javascript / Typescript
+  - ReactJS with Typescript and their ecosystem
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70"> &nbsp;
 
