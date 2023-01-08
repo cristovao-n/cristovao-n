@@ -10,7 +10,7 @@
 
 - These are my main stacks:
 
-  - ReactJS with Typescript and their ecosystem
+  - ReactJS and Typescript ecosystem
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70"> &nbsp;
 
