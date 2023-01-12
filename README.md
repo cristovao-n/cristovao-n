@@ -2,7 +2,7 @@
 
 - 👋 Hi, my name is Cristovão,  I'm 19 years old, and I'm a developer from Brazil! I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I study Computer Science at "UFCG - Universidade Federal de Campina Grande".
 
-- Now I'm studying back-end development and Unix systems.
+- Now I'm studying back-end development with Spring Boot and Unix systems.
 
 - Currently, one of my focuses is to study web development always trying to think outside of the box to provide the fastest and the best development experience in my personal projects.
 
