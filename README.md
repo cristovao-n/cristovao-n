@@ -10,7 +10,7 @@
 
 - These are my main stacks:
 
-  - ReactJS and Typescript ecosystem
+  - 2 years of professional experience with ReactJS and Typescript ecosystem
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70"> &nbsp;
 
