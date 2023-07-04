@@ -1,6 +1,6 @@
 # Hi!
 
-- 👋 Hi, my name is Cristovão,  I'm 19 years old, and I'm a developer from Brazil! I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I study Computer Science at "UFCG - Universidade Federal de Campina Grande".
+- 👋 Hi, my name is Cristovão, I'm a developer from Brazil! I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I study Computer Science at "UFCG - Universidade Federal de Campina Grande".
 
 - Now I'm studying back-end development with Spring Boot.
 
