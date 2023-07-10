@@ -1,18 +1,25 @@
 # Hi!
 
-- 👋 Hi, my name is Cristovão, I'm a developer from Brazil! I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I study Computer Science at "UFCG - Universidade Federal de Campina Grande".
+Hi, my name is Cristovão, I'm a developer from Brazil! I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I study Computer Science at "UFCG - Universidade Federal de Campina Grande".
 
-- Now I'm studying back-end development with Spring Boot.
+Currently, one of my focuses is to study web development always trying to think outside of the box to provide the fastest and the best development experience in my personal projects.
 
-- Currently, one of my focuses is to study web development always trying to think outside of the box to provide the fastest and the best development experience in my personal projects.
+On my github you'll find a lot of simple projects that are focused on especific concepts of the technologies I'm studying.
 
-- On my github you'll find a lot of simple projects that are focused on especific concepts of the technologies I'm studying.
-
-- These are my main stacks:
-
-  - 2 years of professional experience with ReactJS and Typescript ecosystem
+## Stack
+  - Typescript / Javascript
+    - ReactJS
+    - NodeJS
+  - Java
+    - Spring Boot
+  - Clojure
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="70"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="70"> &nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="70"> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg" alt="Clojure" width="70"> &nbsp;
+
+
 
 <!---
 Crisnzx/Crisnzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
