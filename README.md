@@ -2,9 +2,7 @@
 
 Hi, my name is Cristovão, I'm a developer from Brazil! I am "Técnico em Informática Integrado ao Ensino Médio" by "IFPB - Campus Esperança" and I study Computer Science at "UFCG - Universidade Federal de Campina Grande".
 
-Currently, one of my focuses is to study web development always trying to think outside of the box to provide the fastest and the best development experience in my personal projects.
-
-On my github you'll find a lot of simple projects that are focused on especific concepts of the technologies I'm studying.
+On my GitHub, you'll find numerous simple projects that focus on specific concepts related to the technologies I'm studying.
 
 ## Stack
   - Typescript / Javascript
