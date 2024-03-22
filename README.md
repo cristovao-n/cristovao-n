@@ -7,7 +7,7 @@ Hi, my name is Cristovão, I'm a developer from Brazil! I am "Técnico em Inform
   - Java, Spring Boot
   - Functional Paradigm, Haskell, Clojure
   - SQL, PostgreSQL, SAP HANA
-  - GUI Prototype, Figma
+  - GUI Prototype, UX/UI, Figma
   - Cypress, JUnit, Jest
 
 ## Interests
