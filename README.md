@@ -9,6 +9,7 @@ Hi, my name is Cristovão, I'm a developer from Brazil! I am "Técnico em Inform
   - SQL, PostgreSQL, SAP HANA
   - GUI Prototype, UX/UI, Figma
   - Cypress, JUnit, Jest
+  - Linux, Shell script
 
 ## Future Interests
   - Cybersecurity
