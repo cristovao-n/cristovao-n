@@ -14,7 +14,7 @@ Hi, my name is Cristovão, I'm a developer from Brazil! I am "Técnico em Inform
 ## Future Interests
   - Cybersecurity
   - Ethical Hacking
-  - Infrastructure
+  - DevOps
 
 
 <!---
