@@ -10,10 +10,12 @@ Hi, my name is Cristovão, I'm a developer from Brazil! I am "Técnico em Inform
   - GUI Prototype, UX/UI, Figma
   - Cypress, JUnit, Jest
   - Linux, Shell script
+  - C
+  - Concurrent Programming
+  - Parallel Programming with GPU, CUDA
 
-## Future Interests
-  - Cybersecurity
-  - Ethical Hacking
+## Interests
+  - Information Security
   - DevOps
 
 
