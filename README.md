@@ -12,7 +12,7 @@ Hi, my name is Cristovão, I'm a developer from Brazil! I am "Técnico em Inform
   - Linux, Shell script
   - Docker
   - C
-  - Concurrent Programming
+  - Concurrent Programming, GoLang
   - Parallel Programming with GPU, CUDA
 
 ## Interests
